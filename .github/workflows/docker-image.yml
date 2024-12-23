@@ -1,18 +1,3 @@
-pytest test.py  - -verbosity=2 /// to check what error
-
-now we need to add,commit and push either using vs code or commands in terminal
-
-
-Now need to yml (template) file.
-
-Go to github
-in  newly created repo – select “Action tab”
-
-Search workflow – search docker
-Select dockerimage and click configure
-
-.yml file
-
 name: Docker Image CI/CD
 
 on:
